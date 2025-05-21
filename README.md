@@ -1,6 +1,6 @@
 # python-estudos
-Estudos de Python 
-ste repositório contém meus estudos e exercícios em Python, abrangendo:
+Estudos de Python. 
+Este repositório contém meus estudos e exercícios em Python, abrangendo:
 
 Conceitos básicos da linguagem
 Orientação a Objetos (POO)
